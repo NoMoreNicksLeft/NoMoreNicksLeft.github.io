@@ -6,3 +6,9 @@ p,h1,h2,h3,h4,h5,body {
   font-family: sans-serif;
   text-align: center;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
